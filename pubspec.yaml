@@ -1,0 +1,16 @@
+name: memoa_social
+description: Memoa Social Flutter app
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  lottie: ^2.6.0
+
+flutter:
+  assets:
+    - assets/animations/mascot.json
