@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit of Memoa Social app"
+git branch -M main
+git remote add origin https://github.com/aryachtama/memoa-social.git
+git push -u origin main
+assets/
+  images/
+    .gitkeep
