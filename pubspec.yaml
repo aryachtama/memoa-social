@@ -12,5 +12,6 @@ dependencies:
   lottie: ^2.6.0
 
 flutter:
+  uses-material-design: true
   assets:
     - assets/animations/mascot.json
